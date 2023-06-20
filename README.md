@@ -1,4 +1,11 @@
-# Hi there 👋 I'm Dimitris, a Passionate iOS developer from 🇬🇷 
+<H1 align="center">
+  <b>Hi there 👋 I'm Dimitris,</b>
+</p>
+
+<p align="center">
+  a Passionate iOS developer from 🇬🇷
+</p>
+
 
 ## 💫 About Me:
 🔭 I'm currently working on personal projects to improve my skills<br>🌱 I’m currently learning SwiftUI, SwiftData<br>📫 How to reach me: dimitrisgkarlemos@gmail.com
