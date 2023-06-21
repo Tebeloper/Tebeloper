@@ -12,7 +12,7 @@
 
 
 # 💫 About Me:
-🔭 I'm currently working on personal projects to improve my skills<br>🌱 I’m currently learning SwiftUI, SwiftData<br>📫 How to reach me: dimitrisgkarlemos@gmail.com
+🏠 Larissa, Greece<br>🔭 Currently working on personal projects to improve my skills<br>🌱 Learning SwiftUI, SwiftData<br>📫 Reach me: dimitrisgkarlemos@gmail.com
 
 
 ## 🌐 Socials:
