@@ -1,3 +1,7 @@
+<h1 align="center">
+ <img src="https://www.linkpicture.com/q/SwiftUltrawide.png" />
+</h1>
+
 <H1 align="center">
   <b>Hi there 👋 I'm Dimitris,</b>
 </p>
