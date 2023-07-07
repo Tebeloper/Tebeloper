@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  a Passionate iOS developer from 🇬🇷
+  a Passionate iOS Developer
 </p>
 
 
