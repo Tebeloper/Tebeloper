@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://www.linkpicture.com/q/SwiftUltrawide.png" />
+ <img src="https://www.linkpicture.com/q/WWDC22-Dark-Blue-wallpaper-for-Mac-1536x864.png" />
 </h1>
 
 <H1 align="center">
