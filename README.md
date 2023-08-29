@@ -11,7 +11,7 @@
 </p>
 
 
-# 💫 About Me:
+# 👨🏻‍💻 About Me:
 🔨 | SwiftUI addicted
 <br>
 🎓 | Computer Science
