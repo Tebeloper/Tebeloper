@@ -16,6 +16,6 @@
 <br>
 🎓 | Computer Science
 <br>
-🌱 | Learning SwiftUI, SwiftData
+💻 | Learning SwiftUI, SwiftData
 <br>
 🚀 | Working on personal projects
