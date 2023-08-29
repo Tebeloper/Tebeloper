@@ -12,4 +12,10 @@
 
 
 # 💫 About Me:
-🏠 Larissa, Greece<br>🔭 Currently working on personal projects<br>🌱 Learning SwiftUI, SwiftData<br>
+🔨 | SwiftUI addicted
+<br>
+🎓 | Computer Science
+<br>
+🌱 | Learning SwiftUI, SwiftData
+<br>
+🚀 | Working on personal projects
