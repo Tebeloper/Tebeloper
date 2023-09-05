@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  a Passionate iOS Developer
+  a passionate iOS Developer
 </p>
 
 
