@@ -15,7 +15,3 @@
 🔨 | SwiftUI addicted
 <br>
 🎓 | Computer Science
-<br>
-💻 | Learning SwiftUI, SwiftData
-<br>
-🚀 | Working on personal projects
