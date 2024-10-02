@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://www.bleepstatic.com/content/hl-images/2017/03/18/apple-swift.jpg" />
+ <img src="https://applescoop.org/image/wallpapers/mac/apple-logo-apple-event-developer-apple-devices-26-09-2024-1727387908-hd-wallpaper.jpg" />
 </h1>
 
 <H1 align="center">
