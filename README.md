@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://www.linkpicture.com/q/SwiftUltrawide_1.png" />
+ <img src="https://www.bleepstatic.com/content/hl-images/2017/03/18/apple-swift.jpg" />
 </h1>
 
 <H1 align="center">
