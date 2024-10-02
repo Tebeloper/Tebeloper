@@ -12,6 +12,9 @@
 
 
 # 👨🏻‍💻 About Me:
+From 🇬🇷
+<br>
+<br>
 🔨 | SwiftUI addicted
 <br>
 🎓 | Computer Science
